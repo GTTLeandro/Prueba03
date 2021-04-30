@@ -20,6 +20,7 @@ public class App {
 				
 		System.out.println(bol1.getFechaInicio());
 		System.out.println("Ventas: "+ bol1.getCantidadClientes());
+		System.out.println();
 		
 		double promedio =0.0;
 		double suma =0.0;
